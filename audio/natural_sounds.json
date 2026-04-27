@@ -1,0 +1,46 @@
+{
+    "natural_sounds": [
+        {
+            "id": "1",
+            "name": "Coastal Breeze",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285820/seashore_zte8id.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777276665/seashore_njar3d.mp3"
+        },
+        {
+            "id": "2",
+            "name": "Sunlit Woods",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285842/forest_s33ue3.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777274230/Forest_Sounds_vkph9c.mp3"
+        },
+        {
+            "id": "3",
+            "name": "Epic Storm",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285838/storm_v3zusb.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777283447/Epic_Storm_rjsscf.mp3"
+        },
+        {
+            "id": "4",
+            "name": "Nocturnal Calm",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285847/Night_atmosphere_laybvd.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777281782/Night_atmosphere_e5a3d2.mp3"
+        },
+        {
+            "id": "5",
+            "name": "Sacred Echo",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285840/templeinfront_dfmuoc.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777275897/temple_vfvdmn.mp3"
+        },
+        {
+            "id": "6",
+            "name": "Celestial Dream",
+            "theme": "Immersive Nature Sounds",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777285822/space_gzskvo.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777276981/space_dlkotg.mp3"
+        }
+    ]
+}

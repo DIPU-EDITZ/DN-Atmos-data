@@ -1,0 +1,120 @@
+{
+  "sounds": [
+    {
+        "name": "Crickets by river",
+        "type": "insects",
+        "url":"https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215528/crickets_by_river_gf72mk.mp3"
+    },
+    {
+        "name": "Forest ambience",
+        "type": "forest",
+        "url":"https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215523/forest-ambience_fcbxda.mp3"
+    },
+    {
+        "name": "Birds chriping by river",
+        "type": "birds",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215519/birds_chriping_near_river_e6xz85.mp3"
+    },
+    {
+        "name": "Sea birds",
+        "type": "sea",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215514/sea-birds_w6dr4w.mp3"
+    },
+    {
+        "name": "Night crickets & frogs",
+        "type": "insects",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215510/night-crickets-frogs_in99fu.mp3"
+    },
+    {
+        "name": "Bird sound",
+        "type": "birds",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777222030/birds_atcfsu.mp3"
+    },
+
+    {
+        "name": "Fireplace",
+        "type": "fireplace",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215667/Fire-in-fireplace_zoshjj.mp3"
+    },
+
+    {
+        "name": "City sound",
+        "type": "noise",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215224/city-traffic_nsghtf.mp3"
+    },
+    {
+        "name": "Restaurant sound",
+        "type": "noise",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215222/restaurant-crowd-talking_pveahf.mp3"
+    },
+    {
+        "name": "Kids in park",
+        "type": "noise",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215219/kids-in-park_tf8rpx.mp3"
+    },
+
+    {
+        "name": "Driving in rain",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215133/driving-in-rain_qhtw45.mp3"
+    },
+    {
+        "name": "Heavy rain",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215130/heavy-rain_eo9nvt.mp3"
+    },
+    {
+        "name": "Rain on umbrella",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215127/rain-on-umbrella_hshlbv.mp3"
+    },
+    {
+        "name": "Rain on roof",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215126/rain-on-roof_ntu1zo.mp3"
+    },
+    {
+        "name": "Light rain",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215123/light-rain_c855a3.mp3"
+    },
+    {
+        "name": "Rainforest",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215121/forest-rain_qbyqwf.mp3"
+    },
+
+    {
+        "name": "Thunder with rain",
+        "type": "thunder",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215333/thunder-lightrain_hrmcpo.mp3"
+    },
+    {
+        "name": "Thunder rumble",
+        "type": "thunder",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777273437/thunder-rumble_wkyymb.mp3"
+    },
+
+    {
+        "name": "River sound",
+        "type": "water",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215404/relaxing-river-sound_zcwcgm.mp3"
+    },
+    {
+        "name": "Ocean waves",
+        "type": "water",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215401/sea-waves_skzgew.mp3"
+    },
+    {
+        "name": "Waterflow",
+        "type": "water",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215398/water-flow_lytmiu.mp3"
+    },
+
+    {
+        "name": "Wind",
+        "type": "wind",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215296/wind-blowing_xiu5vx.mp3"
+    }
+  ]
+}

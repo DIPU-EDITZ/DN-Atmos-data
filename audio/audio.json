@@ -1,0 +1,532 @@
+{
+    "audios": [
+        {
+            "id": "1",
+            "name": "Shindao",
+            "artist": "Spheriá",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Dreamy",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214943/Shindao_by_Spheri%C3%A1_gsiwiw.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://soundcloud.com/spheriamusic",
+                "license_name": "Creative Commons CC BY-SA 3.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "attribution_text": "Shindao by Spheriá | https://soundcloud.com/spheriamusic | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY-SA 3.0"
+            }
+        },
+        {
+            "id": "2",
+            "name": "MANTRA",
+            "artist": "Alex Productions",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Sleep",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214958/MANTRA_xeu4mu.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://onsound.eu/",
+                "license_name": "Creative Commons CC BY 3.0",
+                "license_url": "https://creativecommons.org/licenses/by/3.0/",
+                "attribution_text": "MANTRA by Alex-Productions | https://onsound.eu/ | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 3.0 | https://creativecommons.org/licenses/by/3.0/"
+            }
+        },
+        {
+            "id": "3",
+            "name": "ARNOR",
+            "artist": "Alex Productions",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Sleep",
+                "Historical",
+                "Autumn",
+                "Dreamy"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214959/ARNOR_vaw0se.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://onsound.eu/",
+                "license_name": "Creative Commons CC BY 3.0",
+                "license_url": "https://creativecommons.org/licenses/by/3.0/",
+                "attribution_text": "Relaxing Chill Music | ARNOR by Alex-Productions | https://onsound.eu/ | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 3.0 | https://creativecommons.org/licenses/by/3.0/"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Echoes",
+            "artist": "Scott Buckley",
+            "genres": [
+                "Ambient",
+                "Orchestral",
+                "Cinematic",
+                "Sad"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214949/Echoes_lkwgms.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "www.scottbuckley.com.au",
+                "license_name": "Creative Commons CC BY 4.0",
+                "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                "attribution_text": "Echoes by Scott Buckley | https://www.scottbuckley.com.au/ | Music provided by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 4.0 | https://creativecommons.org/licenses/by/4.0/"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Laetha",
+            "artist": "Spheriá",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Dreamy",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214937/Laetha_rrfdhx.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://soundcloud.com/spheriamusic",
+                "license_name": "Creative Commons CC BY-SA 3.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "attribution_text": "Laetha by Spheriá | https://soundcloud.com/spheriamusic | Music provided by https://www.chosic.com/free-music/all/ | Creative Commons CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0/"
+            }
+        },
+        {
+            "id": "6",
+            "name": "Shadows & Dust",
+            "artist": "Scott Buckley",
+            "genres": [
+                "Ambient",
+                "Historical",
+                "Cinematic",
+                "Sad"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214959/Shadows_and_Dust_wofrat.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "www.scottbuckley.com.au",
+                "license_name": "Creative Commons CC BY 4.0",
+                "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                "attribution_text": "Shadows & Dust by Scott Buckley | https://www.scottbuckley.com.au/ | Music provided by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 4.0 | https://creativecommons.org/licenses/by/4.0/"
+            }
+        },
+        {
+            "id": "7",
+            "name": "Evening Improvisation (with Ethera)",
+            "artist": "Spheriá",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Study",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214931/Evening-Improvisation-with-Ethera_cloqvm.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://soundcloud.com/spheriamusic",
+                "license_name": "Creative Commons CC BY-SA 3.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "attribution_text": "Evening Improvisation (with Ethera) by Spheriá | https://soundcloud.com/spheriamusic | Music provided by https://www.chosic.com/free-music/all/ | Creative Commons CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0/"
+            }
+        },
+        {
+            "id": "8",
+            "name": "Wildflowers",
+            "artist": "Scott Buckley",
+            "genres": [
+                "Orchestral",
+                "Cinematic",
+                "Piano",
+                "Dramatic"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214954/Wildflowers_wjzxfd.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "www.scottbuckley.com.au",
+                "license_name": "Creative Commons CC BY 4.0",
+                "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                "attribution_text": "Wildflowers by Scott Buckley | https://www.scottbuckley.com.au/ | Music provided by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 4.0 | https://creativecommons.org/licenses/by/4.0/"
+            }
+        },
+        {
+            "id": "9",
+            "name": "Relaxation 05",
+            "artist": "Lily J",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Relaxing",
+                "Meditation"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214945/Relaxation-05_t0ejnv.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "10",
+            "name": "Feedback Dreams",
+            "artist": "Eugenio Mininni",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Mysterious",
+                "Space"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214940/Feedback-dreams_bobnst.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "11",
+            "name": "Voxcape",
+            "artist": "Eugenio Mininni",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Relaxing"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214957/Voxscape_m63cv5.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "12",
+            "name": "Forest Treasure",
+            "artist": "Alejandro Magaña (A.M.)",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Mysterious",
+                "Meditation"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214934/Forest-treasure_cmeiw3.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "13",
+            "name": "Neild Grohm Hanging 4",
+            "artist": "Eugenio Mininni",
+            "genres": [
+                "Meditation",
+                "Mystical"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214952/Nield-grohm-hanging-4_oefef5.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "14",
+            "name": "Valley Sunset",
+            "artist": "Alejandro Magaña (A.M.)",
+            "genres": [
+                "Ambient",
+                "Mysterious",
+                "Atmospheric",
+                "Relaxing"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214941/valley_Sunset_nenvtx.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "15",
+            "name": "Spirit in the Woods",
+            "artist": "Alejandro Magaña (A.M.)",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Mysterious",
+                "Relaxing",
+                "Space"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214943/Spirit-in-the-woods_wuqere.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "16",
+            "name": "Cyberpunk City",
+            "artist": "Alejandro Magaña (A.M.)",
+            "genres": [
+                "Ambient",
+                "Cinematic",
+                "Relaxing",
+                "Study"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777236502/Cyberpunk-city_wogybd.mp3",
+            "credit": {
+                "source": "Mixit",
+                "music_page": "https://mixkit.co/free-stock-music/"
+            }
+        },
+        {
+            "id": "17",
+            "name": "Temple",
+            "artist": "Devraj Dutta",
+            "genres": [
+                "Sitar",
+                "Temple",
+                "Meditation",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214734/Temple_mozv54.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "18",
+            "name": "Sitar in the Temple",
+            "artist": "Playlistsons",
+            "genres": [
+                "Sitar",
+                "Temple",
+                "Meditation",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214691/Sitar_in_the_Temple_xbdw0i.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "19",
+            "name": "Buddha Zen",
+            "artist": "Ievgen Poltavskyi",
+            "genres": [
+                "Temple",
+                "Meditation",
+                "Spiritual"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214771/Buddha_Zen_lsnn56.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "20",
+            "name": "On Celestial Wings",
+            "artist": "Paul Winter",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Sad",
+                "Study"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214725/On_Celestial_Wings_mvi5qb.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "21",
+            "name": "Motivation",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Dramatic",
+                "Motivational",
+                "Study",
+                "Relaxing"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214812/Motivation_dr2sax.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "22",
+            "name": "Ambient",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Orchestral"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214809/Ambient_cmsdpe.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "23",
+            "name": "Film",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Orchestral",
+                "Cinematic"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214805/Film_wootsf.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "24",
+            "name": "Love",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Modern",
+                "Piano",
+                "Romantic",
+                "Relaxing"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214806/Love_rjftcg.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "25",
+            "name": "Inspiring",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Motivational",
+                "Study"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214808/Inspiring_bhkfjj.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "26",
+            "name": "Cosmos",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Space",
+                "Mystical",
+                "Cinematic"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214815/Cosmos_mrydxo.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "27",
+            "name": "Mystical",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Mystical",
+                "Cinematic",
+                "Mysterious"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214810/Mystical_qpgt3e.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "28",
+            "name": "Documentary Nature",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Atmospheric",
+                "Relaxing",
+                "Study"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214802/Documentary_Nature_onuzkm.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "29",
+            "name": "Piano",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Modern",
+                "Piano",
+                "Sad",
+                "Study"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214808/Piano_asyw6g.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "30",
+            "name": "Ethereal",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Ambient",
+                "Space",
+                "Study",
+                "Motivational",
+                "Relaxing",
+                "Dramatic",
+                "Meditation"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214816/Ethereal_obq0i9.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "31",
+            "name": "Inspirational Documentary",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Modern",
+                "Motivational",
+                "Ambient",
+                "Relaxing"
+            ],
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214804/Inspirational_Documentary_fk20rz.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        }
+    ]
+}
