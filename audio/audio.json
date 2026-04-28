@@ -320,6 +320,276 @@
                 "source": "Pixabay",
                 "music_page": "https://pixabay.com/music/"
             }
+        },
+        {
+            "id": "audio_18",
+            "name": "Paperback Romance",
+            "artist": "Dmitri Spis",
+            "genres": [
+                "Romantic",
+                "Piano",
+                "Study"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393259/Paperback_romance_c9uk7m.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393356/Paperback_romance_hbirsg.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_19",
+            "name": "Memories",
+            "artist": "Nikita Kondrashev",
+            "genres": [
+                "Romantic",
+                "Relaxing",
+                "Modern",
+                "Study",
+                "Piano"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393246/Memories_y9jhzd.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393369/Memories_s5f8q1.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_20",
+            "name": "Rusting Light",
+            "artist": "Anastasia Chubarova",
+            "genres": [
+                "Romantic",
+                "Ambient",
+                "Modern"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393253/Rusting_light_b1kdzz.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393320/Rusting_Light_v9fpvf.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_21",
+            "name": "Void Spectrums",
+            "artist": "Nikit Kondrashev",
+            "genres": [
+                "Space",
+                "Ambient",
+                "Modern",
+                "Relaxing",
+                "Study"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393233/Void_spectrums_vzlkup.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393442/Void_Spectrums_zrfpug.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_22",
+            "name": "Legacy of Brave",
+            "artist": "Tunetank",
+            "genres": [
+                "Space",
+                "Ambient",
+                "Atmospheric",
+                "Relaxing"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393247/Legacy_of_the_Brave_jpz5ny.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393340/Legacy_of_the_Brave_qwabsx.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_23",
+            "name": "Summit of Giants",
+            "artist": "Sergey Victors",
+            "genres": [
+                "Space",
+                "Ambient",
+                "Atmospheric",
+                "Relaxing",
+                "Modern"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393282/Summit_of_giants_vg6tku.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393375/Summit_of_Giants_g6evn9.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_24",
+            "name": "The Sky Within",
+            "artist": "Bryan Jesus Los Santos Breton",
+            "genres": [
+                "Atmospheric",
+                "Relaxing",
+                "Cinematic"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393241/The_Sky_within_ua1kyq.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393384/The_sky_within_swmgub.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_25",
+            "name": "Mysterious Mystical",
+            "artist": "Roman Dolmatov",
+            "genres": [
+                "Atmospheric",
+                "Mysterious",
+                "Mystical"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393252/Mysterious_mytical_tgatvu.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393340/mysterious_mystical_ub302w.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_26",
+            "name": "Handpan Tales",
+            "artist": "Gabriela Ayres",
+            "genres": [
+                "Instrumental",
+                "Relaxing",
+                "Study",
+                "Modern"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393242/handpan_tales_lse1s4.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393393/Handpan_Tales_nmgjcy.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_27",
+            "name": "Golden Hour",
+            "artist": "Dmitrii Kolesnikov",
+            "genres": [
+                "Instrumental",
+                "Motivational",
+                "Study",
+                "Modern"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393241/Golden_Hour_kvo96s.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393390/Golden_Hour_fu9gnc.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_28",
+            "name": "The Saffron Dawn",
+            "artist": "Dmitrii Kolesnikov",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393246/The_Saffron_Dawn_fsxsus.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393318/The_Saffron_Dawn_gt9tvc.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_29",
+            "name": "The Sacred Thread",
+            "artist": "Pixel Perfect Productions",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual",
+                "Relaxing"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393237/The_Sacred_Thread_pt01xg.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393541/The_Sacred_Thread_cukymi.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_30",
+            "name": "Nirvana Echoes",
+            "artist": "Kalpesh Ajugia",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393249/Nirvana_Echoes_swmdvf.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393375/Nirvana_Echoes_qpzqqn.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_31",
+            "name": "Infinite Shanti - Krishna",
+            "artist": "Paul Krasnoshchok",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual",
+                "Relaxing",
+                "Krishna"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393250/Infinite_Shanti_kp6ezy.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393332/Infinite_Shatni_-_Krishna_hbdvv1.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_32",
+            "name": "Lotus Dreams",
+            "artist": "Andrii Poradovskyi",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual",
+                "Krishna"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393247/Lotus_Dreams_gqc6yf.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393504/Lotus_Dreams_ewazia.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_33",
+            "name": "Flute of Grace",
+            "artist": "Paul Krasnoshchok",
+            "genres": [
+                "Instrumental",
+                "Indian",
+                "Spiritual",
+                "Krishna"
+            ],
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393249/Flute_of_Grace_l9gblu.jpg",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393364/Flute_of_Grace_tkvmqm.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
         }
     ]
 }
