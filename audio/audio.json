@@ -10,6 +10,7 @@
                 "Dreamy",
                 "Spiritual"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381997/shindao_wcjzad.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214943/Shindao_by_Spheri%C3%A1_gsiwiw.mp3",
             "credit": {
@@ -31,6 +32,7 @@
                 "Sleep",
                 "Spiritual"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381984/Mantra_rzihzl.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214958/MANTRA_xeu4mu.mp3",
             "credit": {
@@ -54,6 +56,7 @@
                 "Autumn",
                 "Dreamy"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382013/ARNOR_w7lkou.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214959/ARNOR_vaw0se.mp3",
             "credit": {
@@ -75,6 +78,7 @@
                 "Cinematic",
                 "Sad"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382021/Echoes_eghv5s.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214949/Echoes_lkwgms.mp3",
             "credit": {
@@ -96,6 +100,7 @@
                 "Dreamy",
                 "Spiritual"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381982/laetha_lwaocm.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214937/Laetha_rrfdhx.mp3",
             "credit": {
@@ -117,6 +122,7 @@
                 "Cinematic",
                 "Sad"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381993/shadows_dust_as6av9.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214959/Shadows_and_Dust_wofrat.mp3",
             "credit": {
@@ -138,6 +144,7 @@
                 "Study",
                 "Spiritual"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382022/Evening_Improvisation_cgre4w.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214931/Evening-Improvisation-with-Ethera_cloqvm.mp3",
             "credit": {
@@ -159,6 +166,7 @@
                 "Piano",
                 "Dramatic"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382007/wildflowers_hmv1ia.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214954/Wildflowers_wjzxfd.mp3",
             "credit": {
@@ -180,6 +188,7 @@
                 "Relaxing",
                 "Meditation"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381992/relaxation_05_xt8eb4.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214945/Relaxation-05_t0ejnv.mp3",
             "credit": {
@@ -197,6 +206,7 @@
                 "Mysterious",
                 "Space"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381979/feedback_dreams_qsed9f.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214940/Feedback-dreams_bobnst.mp3",
             "credit": {
@@ -213,6 +223,7 @@
                 "Atmospheric",
                 "Relaxing"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382004/voxcape_fpp1je.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214957/Voxscape_m63cv5.mp3",
             "credit": {
@@ -230,6 +241,7 @@
                 "Mysterious",
                 "Meditation"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381980/forest_treasure_zqrw4p.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214934/Forest-treasure_cmeiw3.mp3",
             "credit": {
@@ -243,8 +255,10 @@
             "artist": "Eugenio Mininni",
             "genres": [
                 "Meditation",
-                "Mystical"
+                "Mystical",
+                "Instrumental"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381987/neild_grohm_cuo0m4.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214952/Nield-grohm-hanging-4_oefef5.mp3",
             "credit": {
@@ -262,6 +276,7 @@
                 "Atmospheric",
                 "Relaxing"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381999/valley_sunset_gaogaa.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214941/valley_Sunset_nenvtx.mp3",
             "credit": {
@@ -280,6 +295,7 @@
                 "Relaxing",
                 "Space"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382006/spirit_in_the_woods_fuex8h.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214943/Spirit-in-the-woods_wuqere.mp3",
             "credit": {
@@ -297,6 +313,7 @@
                 "Relaxing",
                 "Study"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777382014/Cyberpunk_City_iwke3z.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777236502/Cyberpunk-city_wogybd.mp3",
             "credit": {
@@ -314,6 +331,7 @@
                 "Sad",
                 "Study"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777381988/on_celestial_wings_khcvb0.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777214725/On_Celestial_Wings_mvi5qb.mp3",
             "credit": {
@@ -330,6 +348,7 @@
                 "Piano",
                 "Study"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393259/Paperback_romance_c9uk7m.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393356/Paperback_romance_hbirsg.mp3",
             "credit": {
@@ -348,6 +367,7 @@
                 "Study",
                 "Piano"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393246/Memories_y9jhzd.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393369/Memories_s5f8q1.mp3",
             "credit": {
@@ -364,6 +384,7 @@
                 "Ambient",
                 "Modern"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393253/Rusting_light_b1kdzz.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393320/Rusting_Light_v9fpvf.mp3",
             "credit": {
@@ -382,6 +403,7 @@
                 "Relaxing",
                 "Study"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393233/Void_spectrums_vzlkup.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393442/Void_Spectrums_zrfpug.mp3",
             "credit": {
@@ -399,6 +421,7 @@
                 "Atmospheric",
                 "Relaxing"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393247/Legacy_of_the_Brave_jpz5ny.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393340/Legacy_of_the_Brave_qwabsx.mp3",
             "credit": {
@@ -417,6 +440,7 @@
                 "Relaxing",
                 "Modern"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393282/Summit_of_giants_vg6tku.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393375/Summit_of_Giants_g6evn9.mp3",
             "credit": {
@@ -433,6 +457,7 @@
                 "Relaxing",
                 "Cinematic"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393241/The_Sky_within_ua1kyq.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393384/The_sky_within_swmgub.mp3",
             "credit": {
@@ -449,6 +474,7 @@
                 "Mysterious",
                 "Mystical"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393252/Mysterious_mytical_tgatvu.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393340/mysterious_mystical_ub302w.mp3",
             "credit": {
@@ -466,6 +492,7 @@
                 "Study",
                 "Modern"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393242/handpan_tales_lse1s4.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393393/Handpan_Tales_nmgjcy.mp3",
             "credit": {
@@ -483,6 +510,7 @@
                 "Study",
                 "Modern"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393241/Golden_Hour_kvo96s.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393390/Golden_Hour_fu9gnc.mp3",
             "credit": {
@@ -497,8 +525,10 @@
             "genres": [
                 "Instrumental",
                 "Indian",
-                "Spiritual"
+                "Spiritual",
+                "Temple"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393246/The_Saffron_Dawn_fsxsus.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393318/The_Saffron_Dawn_gt9tvc.mp3",
             "credit": {
@@ -514,8 +544,10 @@
                 "Instrumental",
                 "Indian",
                 "Spiritual",
-                "Relaxing"
+                "Relaxing",
+                "Temple"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393237/The_Sacred_Thread_pt01xg.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393541/The_Sacred_Thread_cukymi.mp3",
             "credit": {
@@ -530,8 +562,10 @@
             "genres": [
                 "Instrumental",
                 "Indian",
-                "Spiritual"
+                "Spiritual",
+                "Temple"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393249/Nirvana_Echoes_swmdvf.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393375/Nirvana_Echoes_qpzqqn.mp3",
             "credit": {
@@ -548,8 +582,10 @@
                 "Indian",
                 "Spiritual",
                 "Relaxing",
-                "Krishna"
+                "Krishna",
+                "Temple"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393250/Infinite_Shanti_kp6ezy.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393332/Infinite_Shatni_-_Krishna_hbdvv1.mp3",
             "credit": {
@@ -565,8 +601,10 @@
                 "Instrumental",
                 "Indian",
                 "Spiritual",
-                "Krishna"
+                "Krishna",
+                "Temple"
             ],
+            "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393247/Lotus_Dreams_gqc6yf.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393504/Lotus_Dreams_ewazia.mp3",
             "credit": {
@@ -582,14 +620,105 @@
                 "Instrumental",
                 "Indian",
                 "Spiritual",
-                "Krishna"
+                "Krishna",
+                "Temple"
             ],
+            "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393249/Flute_of_Grace_l9gblu.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777393364/Flute_of_Grace_tkvmqm.mp3",
             "credit": {
                 "source": "Pixabay",
                 "music_page": "https://pixabay.com/music/"
             }
+        },
+        {
+            "id": "audio_34",
+            "name": "Birds Of Passage - Between The Hours (Spheriá Rework)",
+            "artist": "Spheriá",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Spiritual",
+                "Dreamy",
+                "Study",
+                "Sleep"
+            ],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777398778/Birds_of_Passage_txlyph.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777397501/Birds_of_Passage_j58fhe.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://soundcloud.com/spheriamusic",
+                "license_name": "Creative Commons CC BY-SA 3.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "attribution_text": "Birds Of Passage – Between The Hours (Spheriá Rework) by Spheriá  | https://soundcloud.com/spheriamusic | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0/"
+            }
+        },
+        {
+            "id": "audio_35",
+            "name": "Spa Relax",
+            "artist": "Alex Productions",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Spiritual",
+                "Sleep"
+            ],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777398777/spa_relax_dh5uji.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777397525/Spa_Relax_tbrshh.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://onsound.eu/",
+                "license_name": "Creative Commons CC BY 3.0",
+                "license_url": "https://creativecommons.org/licenses/by/3.0/",
+                "attribution_text": "Spa Relax by Alex Productions | https://onsound.eu/ | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY 3.0 | https://creativecommons.org/licenses/by/3.0/"
+            }
+        },
+        {
+            "id": "audio_36",
+            "name": "Healing of Spheriá",
+            "artist": "Spheriá",
+            "genres": [
+                "Ambient",
+                "Relaxing",
+                "Spiritual",
+                "Sleep"
+            ],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777398776/Healing_xvvgyr.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777397504/Healing_ptuxss.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "https://soundcloud.com/spheriamusic",
+                "license_name": "Creative Commons CC BY-SA 3.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "attribution_text": "Healing of Spheriá by Spheriá | https://soundcloud.com/spheriamusic | Music promoted by https://www.chosic.com/free-music/all/ | Creative Commons CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0/"
+            }
+        },
+        {
+            "id": "audio_37",
+            "name": "Ibn Al-Noor",
+            "artist": "Kevin MacLeod",
+            "genres": [
+                "Historical",
+                "Arabian"
+            ],
+            "star": false,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777398777/Ibn_al_noor_igqvno.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777397512/Ibn_Al-Noor_sldq3d.mp3",
+            "credit": {
+                "source": "Chosic",
+                "music_page": "https://www.chosic.com/free-music/all/",
+                "song_link": "incompetech.com",
+                "license_name": "Creative Commons CC BY 3.0",
+                "license_url": "http://creativecommons.org/licenses/by/3.0/",
+                "attribution_text": "Ibn Al-Noor Kevin MacLeod (incompetech.com) | Licensed under Creative Commons: By Attribution 3.0 License | http://creativecommons.org/licenses/by/3.0/ | Music promoted by https://www.chosic.com/free-music/all/"
+            }
         }
     ]
 }
+        
