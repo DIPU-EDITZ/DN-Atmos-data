@@ -4,21 +4,21 @@
             "id": "noise_1",
             "name": "City sound",
             "theme": "noise",
-            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369186/city_noise_ixefwy.jpg",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369778/city_noise_swg8rr.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215224/city-traffic_nsghtf.mp3"
         },
         {
             "id": "noise_2",
             "name": "Restaurant sound",
             "theme": "noise",
-            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369185/cafe_noise_p1yyz5.jpg",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369777/cafe_noise_zwubex.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215222/restaurant-crowd-talking_pveahf.mp3"
         },
         {
             "id": "noise_3",
             "name": "Kids in park",
             "theme": "noise",
-            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369184/park_noise_ed0m83.jpg",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777369781/park_noise_lumssf.jpg",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215219/kids-in-park_tf8rpx.mp3"
         }
     ]
