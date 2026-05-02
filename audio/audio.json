@@ -583,7 +583,8 @@
                 "Spiritual",
                 "Relaxing",
                 "Krishna",
-                "Temple"
+                "Temple",
+                "Sitar"
             ],
             "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393250/Infinite_Shanti_kp6ezy.webp",
@@ -602,7 +603,8 @@
                 "Indian",
                 "Spiritual",
                 "Krishna",
-                "Temple"
+                "Temple",
+                "Sitar"
             ],
             "star": false,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393247/Lotus_Dreams_gqc6yf.webp",
@@ -621,7 +623,8 @@
                 "Indian",
                 "Spiritual",
                 "Krishna",
-                "Temple"
+                "Temple",
+                "Sitar"
             ],
             "star": true,
             "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777393249/Flute_of_Grace_l9gblu.jpg",
@@ -717,6 +720,45 @@
                 "license_name": "Creative Commons CC BY 3.0",
                 "license_url": "http://creativecommons.org/licenses/by/3.0/",
                 "attribution_text": "Ibn Al-Noor Kevin MacLeod (incompetech.com) | Licensed under Creative Commons: By Attribution 3.0 License | http://creativecommons.org/licenses/by/3.0/ | Music promoted by https://www.chosic.com/free-music/all/"
+            }
+        },
+        {
+            "id": "audio_38",
+            "name": "Desert Horizon Handpan & Ney",
+            "artist": "Gabriela Ayres",
+            "genres": [
+                "Instrumental",
+                "Spiritual",
+                "Modern",
+                "Study",
+                "Relaxing"
+            ],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777753884/desert_horizon_w_zl02wf.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777753430/Desert_Horizon_Handpan_Ney_ojjdkb.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_39",
+            "name": "Divine Bansuri",
+            "artist": "Paul Krasnoshchok",
+            "genres": [
+                "Instrumental",
+                "Krishna",
+                "Indian",
+                "Spiritual",
+                "Relaxing",
+                "Sleep"
+            ],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777753884/devine_bansuri_qtedr6.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777753430/Divine_Bansuri_gcyylq.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
             }
         }
     ]
