@@ -731,10 +731,11 @@
                 "Spiritual",
                 "Modern",
                 "Study",
-                "Relaxing"
+                "Relaxing",
+                "Sad"
             ],
             "star": true,
-            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777753884/desert_horizon_w_zl02wf.webp",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791535/Desert_Horizon_ao9btw.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777753430/Desert_Horizon_Handpan_Ney_ojjdkb.mp3",
             "credit": {
                 "source": "Pixabay",
@@ -754,8 +755,151 @@
                 "Sleep"
             ],
             "star": true,
-            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777753884/devine_bansuri_qtedr6.webp",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791553/devine_bansuri_oef0wb.webp",
             "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777753430/Divine_Bansuri_gcyylq.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_40",
+            "name": "Ambient Nature",
+            "artist": "AtlasAudio",
+            "genres": ["Ambient", "Meditation", "Relaxing", "Sleep"],
+            "star": false,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791536/Ambient_Nature_spayrm.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790269/Ambient_Nature_aoifxd.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_41",
+            "name": "Meditation Ambient",
+            "artist": "Nikit Kondrashev",
+            "genres": ["Ambient", "Meditation", "Relaxing", "Spiritual", "Sleep"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791568/Meditation_ambient_tzwwfz.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790277/Meditation_ambient_pnqpiq.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_42",
+            "name": "Future Abstract",
+            "artist": "Nikit Kondrashev",
+            "genres": ["Ambient", "Cinematic", "Modern", "Sleep"],
+            "star": false,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791554/Future_Abstract_elxhz4.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790272/Future_Abstruct_ydohu5.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_43",
+            "name": "Heartbreaking",
+            "artist": "Nikit Kondrashev",
+            "genres": ["Ambient", "Sad", "Piano", "Sleep"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791558/Hreatbreaking_n2mzj7.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790269/Heartbreaking_t0lyyo.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_44",
+            "name": "Sadness",
+            "artist": "Dmitri Spis",
+            "genres": ["Modern", "Sad", "Piano", "Sleep"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791534/Sadness_otbq3x.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790268/Sadness_bxdbb1.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_45",
+            "name": "Last Goodbye",
+            "artist": "Paul Krasnoshchok",
+            "genres": ["Modern", "Sad", "Piano", "Sleep"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791567/Last_Goodbye_dev7m7.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790266/Sad_piano_music_hwsi9d.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_46",
+            "name": "Eternal Raas",
+            "artist": "Paul Krasnoshchok",
+            "genres": ["Krishna", "Instrumental", "Indian", "Spiritual", "Relaxing", "Sitar"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791536/Eternal_Raas_a4vhnp.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790267/Eternal_Raas_taxjv3.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_47",
+            "name": "Soulful Sargam",
+            "artist": "Andrii Poradovskyi",
+            "genres": ["Krishna", "Instrumental", "Indian", "Spiritual", "Relaxing", "Sitar"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791535/Soulful_Sargam_bhdicz.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790267/Soulful_Sargam_kgeijj.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_48",
+            "name": "Blissful Bhakti Rhythm",
+            "artist": "Paul Krasnoshchok",
+            "genres": ["Krishna", "Instrumental", "Indian", "Spiritual", "Relaxing"],
+            "star": true,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791536/Blissful_Bhakti_Rhythm_ltohpd.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790269/Blissful_Bhakti_Rhythm_juuzlv.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_49",
+            "name": "Peaceful Ambient",
+            "artist": "Daria",
+            "genres": ["Ambient", "Relaxing", "Sleep", "Meditation"],
+            "star": false,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791576/Peaceful_Ambient_cje21x.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790274/Peaceful_Ambient_wz4nwe.mp3",
+            "credit": {
+                "source": "Pixabay",
+                "music_page": "https://pixabay.com/music/"
+            }
+        },
+        {
+            "id": "audio_50",
+            "name": "Meditation Second Row",
+            "artist": "Daria",
+            "genres": ["Ambient", "Relaxing", "Sleep", "Meditation"],
+            "star": false,
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1777791575/Meditation_yybewk.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777790274/Meditation_ogqqbc.mp3",
             "credit": {
                 "source": "Pixabay",
                 "music_page": "https://pixabay.com/music/"
