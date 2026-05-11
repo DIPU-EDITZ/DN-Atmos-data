@@ -1,0 +1,104 @@
+{
+    "faq": [
+        {
+            "question": "Is DNMUSIC free to use?",
+            "answer": "Yes! DNMUSIC is a completely free to use.\nIt offers a premium-quality music experience with features comparable to leading apps - without any cost."
+        },
+        {
+            "question": "Do DNMUSIC & DNATMOS have ads?",
+            "answer": "No. DNMUSIC and DNATMOS offer a completely ad-free music experience, so you can enjoy your music without interruptions."
+        },
+        {
+            "question": "How can I download music in DNMUSIC?",
+            "answer": "DNMUSIC is an offline music player designed to play audio files already stored on your device. It does not support downloading music directly from online sources.\n\nHowever, you can use DNATMOS to discover and download relaxing music, ambient sounds, and audio tracks for a calm listening experience."
+        },
+        {
+            "question": "Why does my music stop playing automatically?",
+            "answer": "Music playback may stop due to one of the following reasons:\n• Another app started playing audio in the background\n• DNATMOS began playing a sound or audio session\n• The Sleep Timer or playback timer expired\n• Your headphones or earphones were disconnected while Pause on Detach was enabled.\n\nIf the issue continues, try checking your audio settings or restarting the app."
+        },
+        {
+            "question": "Why are some songs not showing in my library?",
+            "answer": "Some audio files may not appear if they are unsupported, damaged, hidden, or not detected during scanning.\n\nTo refresh your library:\n• Go to Settings and rescan your music library, or\n• Use the refresh/scan option available in the For You tab\n\nMake sure your music files are properly stored on your device and accessible to DNMUSIC."
+        },
+        {
+            "question": "How can I add lyrics to a song?",
+            "answer": "DNMUSIC allows you to add lyrics to individual songs in multiple ways:\n• Search online and copy/import lyrics\n• Import local lyric files in .txt or .lrc format\n• Manually type and save your own lyrics\n\nThis helps you enjoy synchronized or custom lyrics while listening to your music."
+        },
+        {
+            "question": "Why are duplicate songs appearing in my list?",
+            "answer": "Duplicate songs may appear if the same audio file exists in multiple storage locations on your device. When DNMUSIC scans your storage, all detected copies are added to the library.\n\nTo remove duplicate files:\n• Tap the three-dot menu next to the song\n• Select Delete from Device\n\nNote: Deleting a song permanently removes the audio file from your device and it cannot be recovered from the app."
+        },
+        {
+            "question": "What is DNATMOS?",
+            "answer": "DNATMOS is a companion experience inside DNMUSIC designed for relaxation and immersive ambience. It lets you explore calming sounds, ambient audio, relaxing music, and atmosphere-based sound experiences to help you focus, relax, sleep, or unwind.\n\nDNATMOS also includes a Sound Mix Panel, where you can play up to 4 additional sound effects together alongside your music for a more personalized and immersive listening experience."
+        },
+        {
+            "question": "Why is album art missing for some songs?",
+            "answer": "Some audio files may not contain embedded album artwork. You can add an artwork manually clicking on the three dot and then 'Change cover' button."
+        },
+        {
+            "question": "Why the cover art in the quick settings of the device?",
+            "answer": "It's our app's bug in some Android OS versions. We'll try to fix it asap."
+        },
+        {
+            "question": "Which audio formats are supported?",
+            "answer": "DNMUSIC supports a wide range of audio formats including MP3, AAC, WAV, FLAC, OGG, and many more depending on your device support."
+        },
+        {
+            "question": "Can I create playlists?",
+            "answer": "Yes. You can create custom playlists to organize your favorite songs, moods, or genres and manage playlists too."
+        },
+        {
+            "question": "How to delete songs or files from app?",
+            "answer": "After clicking on the three dot button of individual song, you can delete the that very song by clicking on 'Delete from device'. \n\nNOTE: Deleting a song permanently removes the audio file from your device and it cannot be recovered from the app."
+        },
+        {
+            "question": "Why does playback pause when headphones disconnect?",
+            "answer": "DNMUSIC can automatically pause music when headphones are detached to prevent audio from playing through speakers unexpectedly.\n\nIf you want to continue playback even after detaching headphones, go to Settings > Playback and disable the 'Pause on Detach' option."
+        },
+        {
+            "question": "Can I use DNATMOS while listening to music?",
+            "answer": "No, DNATMOS can be used only when music is not playing. But you can play sounds from Sound Mix Panel together with your music for a layered listening experience."
+        },
+        {
+            "question": "Does DNMUSIC collect my personal audio files?",
+            "answer": "No. DNMUSIC primarily works with local files stored on your device and does not upload your personal songs."
+        },
+        {
+            "question": "Does DNMUSIC support background playback?",
+            "answer": "Yes. Music from DNMUSIC & DNATMOS continues playing while using other apps(If no audio is played by other apps) or when your device screen is off."
+        },
+        {
+            "question": "How many sounds can I mix in DNATMOS?",
+            "answer": "You can play and mix up to 4 additional sound effects simultaneously alongside your music."
+        },
+        {
+            "question": "Can I use DNATMOS directly?",
+            "answer": "Yes! You can use DNATMOS independently. You need to use the DNATMOS widget to open DNATMOS directly."
+        },
+        {
+            "question": "Can I use DNATMOS without internet connection?",
+            "answer": "Yes! You can use DNATMOS without internet connection. But you cannot download new sounds and music in DNATMOS without internet connection."
+        },
+        {
+            "question": "Why the DNATMOS widget is not taking me to the DNATMOS screen?",
+            "answer": "Due to new version or updates, you might be facing this issue.\n\nKindly remove the widget and add the widget again to make it work."
+        },
+        {
+            "question": "I cannot find the app in Play Store",
+            "answer": "This app is currently in Indus App Store. In future, we'll try to release on Play Store."
+        },
+        {
+            "question": "Can I install this app from other sources?",
+            "answer": "Yes. You can install DNMUSIC from Indus App Store and from our website (dnmusic.vercel.app).\n\nHowever, installing from the store is recommended because it provides automatic updates and optimized app size.\nIf you download the APK from our website, you'll need to manually download and reinstall the latest version each time an update is release."
+        },
+        {
+            "question": "Why can't I download new sounds and music in DNATMOS?",
+            "answer": "This requires internet connection to download new sounds and music from the store. Ensure you have a stable internet connection to download new sounds and music for DNATMOS.\nThen you can listen to them completely offline."
+        },
+        {
+            "question": "How can I report a bug or suggest a feature?",
+            "answer": "You can contact us via 'About Developer' section from settings, and drop a mail regarding your enquiry or suggestion."
+        }
+    ]
+}
