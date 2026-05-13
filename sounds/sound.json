@@ -79,6 +79,16 @@
         "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215123/light-rain_c855a3.mp3"
     },
     {
+        "name": "Very light rain",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778689114/very_light_rain_jdtqix.mp3"
+    },
+    {
+        "name": "Rain on tent",
+        "type": "rain",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778689109/rain_on_tent_b7cgzf.mp3"
+    },
+    {
         "name": "Rainforest",
         "type": "rain",
         "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215121/forest-rain_qbyqwf.mp3"
@@ -115,6 +125,11 @@
         "name": "Wind",
         "type": "wind",
         "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1777215296/wind-blowing_xiu5vx.mp3"
+    },
+    {
+        "name": "Blizzard",
+        "type": "wind",
+        "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778689302/blizzard_tyl9gm.mp3"
     }
   ]
 }

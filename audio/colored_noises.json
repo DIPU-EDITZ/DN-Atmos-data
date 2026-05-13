@@ -1,0 +1,32 @@
+{
+    "colored_noises": [
+        {
+            "id": "colornoise_1",
+            "name": "Soft White Noise",
+            "theme": "Colored Noises",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1778690624/white_noise_mffu3m.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778690064/soft_deep_white_noise_cbtxvf.mp3"
+        },
+        {
+            "id": "colornoise_2",
+            "name": "Soft Brown Noise",
+            "theme": "Colored Noises",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1778690621/soft_brown_noise_ocxdjl.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778690058/soft_brown_noise_kh7zmx.mp3"
+        },
+        {
+            "id": "colornoise_3",
+            "name": "Brown Noise Crinkles",
+            "theme": "Colored Noises",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1778690615/brown_noise_asmr_crinkles_yun9nz.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778690063/brown_noise_asmr_crinkles_wk6a2q.mp3"
+        },
+        {
+            "id": "colornoise_4",
+            "name": "Low Pink Noise",
+            "theme": "Colored Noises",
+            "image": "https://res.cloudinary.com/dyqas4n6n/image/upload/v1778690616/low_pink_noise_vh0kdl.webp",
+            "url": "https://res.cloudinary.com/dyqas4n6n/video/upload/v1778690056/low_pink_noise_sb0obd.mp3"
+        }
+    ]
+}
