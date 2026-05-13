@@ -90,7 +90,7 @@
         },
         {
             "question": "Can I install this app from other sources?",
-            "answer": "Yes. You can install DNMUSIC from Indus App Store and from our website (dnmusic.vercel.app).\n\nHowever, installing from the store is recommended because it provides automatic updates and optimized app size.\nIf you download the APK from our website, you'll need to manually download and reinstall the latest version each time an update is release."
+            "answer": "Yes. You can install DNMUSIC from Indus App Store (releasing soon), Google Play Store (releasing soon), and from our website (dnmusic.vercel.app).\n\nHowever, installing from the store is recommended because it provides automatic updates and optimized app size.\nIf you download the APK from our website, you'll need to manually download and reinstall the latest version each time an update is release."
         },
         {
             "question": "Why can't I download new sounds and music in DNATMOS?",
