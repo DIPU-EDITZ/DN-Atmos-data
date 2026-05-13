@@ -2,108 +2,195 @@
     "screenshots": [
         {
             "id": 1,
-            "description": "Immersive full-screen player experience with dynamic color accents.",
+            "name": "Sliding MusicPlayer",
+            "description": "Experience a masterpiece of fluid motion. Our signature Sliding Player Screen puts everything at your fingertips - from high-fidelity controls and 10s Seek-Leaps to quick-toggle Atmos and Theme-Switching. It's not just a player; it's a cockpit for your sound.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663285/screenshot_1_yutv5j.jpg"
         },
         {
             "id": 2,
-            "description": "Sleek library view featuring quick-access tabs for songs, albums, and artists.",
+            "name": "Aesthetic Vinyl Playerscreen",
+            "description": "Retro soul meets modern control. This theme transforms your screen into a Classic Turnable, complete with additional shortcuts to set your Sleep Timer and Add to Playlist without breaking the aesthetic spell.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663285/screenshot_2_miya2x.jpg"
         },
         {
             "id": 3,
-            "description": "Customizable EQ settings to fine-tune your audio for the perfect sound.",
+            "name": "Curved Modernist Playerscreen",
+            "description": "Clean, sophisticated and distraction-free. The Curved Modern Player utilizes soft-edge geometry for a premium, futuristic look that feels as smooth as the music sounds.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663286/screenshot_3_naybkb.jpg"
         },
         {
             "id": 4,
-            "description": "Elegant dark mode interface designed for late-night listening sessions.",
+            "name": "Zero-Distraction Mode",
+            "description": "Focus solely on the art. With our Intelligent Fade, the Curved Modern Player elegantly hides texts and top-icons, leaving you with breathtaking, minimalist interface that highlights the album art.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663285/screenshot_4_pje8az.jpg"
         },
         {
             "id": 5,
-            "description": "Smart playlist management with intuitive drag-and-drop functionality.",
+            "name": "Faded Motion PlayerScreen",
+            "description": "Seamlessly transition between moods. The Crossfade Player features soft visual dissolves that respond to your music, maintaining full control while providing a dreamlike, flowing visual experience.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663287/screenshot_5_y4q6bt.jpg"
         },
         {
             "id": 6,
-            "description": "Real-time lyrics synchronization for an interactive singing experience.",
+            "name": "The Command Center Home",
+            "description": "Your music, organized by intelligence. Toggle between For You, All Music, Playlists, and Artists with ease. Powered by our proprietary sort Algo, your library always stays exactly where you need it.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663286/screenshot_6_uw6zi6.jpg"
         },
         {
             "id": 7,
-            "description": "Seamless device switching with advanced casting and connectivity options.",
+            "name": "Ultra-Fluid Search",
+            "description": "Search at the speed of thought. Our Refined Search UI provides instantaneous results with beautiful animations, makingb the hunt for that one specific track as enjoyable as the song itself.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663286/screenshot_7_sc3h5y.jpg"
         },
         {
             "id": 8,
-            "description": "Personalize your experience with a wide range of premium themes.",
+            "name": "Professional Setting Suite",
+            "description": "Tailer DNMUSIC to your lifestyle. Manage your Library Scans, toggle Headphone Detach behavior, customize Widgets, and explore the DNATMOS configurations all from one unified hub.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663283/screenshot_8_ox5krx.jpg"
         },
         {
             "id": 9,
-            "description": "High-fidelity audio playback engine for crystal-clear sound quality.",
+            "name": "FAQ Section",
+            "description": "Get instant clarity. Our comprehensive FAQ Panel is designed to solve problems before they happen, offering deep insights and quick fixes to ensure your playback never stops.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663282/screenshot_9_l3r2h2.jpg"
         },
         {
             "id": 10,
-            "description": "Explore curated recommendations based on your unique listening habits.",
+            "name": "Plyerscreen Theme Gallery",
+            "description": "Refresh your look in an instant. Swipe through Five Exclusive Player Themes in the preview panel; simply select one to instantly transform the entire playback environment.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663283/screenshot_10_ewdi9z.jpg"
         },
         {
             "id": 11,
-            "description": "Advanced search functionality to find your favorite tracks in seconds.",
+            "name": "'For You' Discovery Tab",
+            "description": "Your personal DJ. The For You tab curates your Last Added, Most Played, and Featured Tracks. One tap on the Shuffle button delivers a perfectly personalized session based on your habits.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663283/screenshot_11_toa9rp.jpg"
         },
         {
             "id": 12,
-            "description": "Intuitive gesture controls for effortless navigation through your music.",
+            "name": "Smart Playlist Engine",
+            "description": "Beyond manual creation. In addition to user-made lists, DNMUSIC provides four Auto-Evolving Playlists - including a Most Played list with an integrated play-countere to track your true favorites.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663285/screenshot_12_bxoyby.jpg"
         },
         {
             "id": 13,
-            "description": "Detailed artist profiles with discography and upcoming event info.",
+            "name": "Visual Playlist Portals",
+            "description": "Every playlist tells a story. View your collections through the lens of the Lead Track's Cover Art, with a dedicated control panel for bulk adding, removing, or shuffling.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663284/screenshot_13_lj5lfu.jpg"
         },
         {
             "id": 14,
-            "description": "Beautifully rendered album art in a responsive grid layout.",
+            "name": "The Artist Archive",
+            "description": "A tribute to the creators. Sort your library by Artist Name with a specialized filter for 'Unknown Artists', ensuring your entire collection is polished and perfectly categorized.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663284/screenshot_14_kd6aab.jpg"
         },
         {
             "id": 15,
-            "description": "Integrated sleep timer for a peaceful transition into your dreams.",
+            "name": "Dynamic Home Widgets",
+            "description": "Bring DNMUSIC to your home screen. Our Pro Widgets allow you to skip, pause, and heart tracks without ever unlocking your phone or opening the app.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663284/screenshot_15_bpcfb0.jpg"
         },
         {
             "id": 16,
-            "description": "Comprehensive audio settings including crossfade and gapless playback.",
+            "name": "The Spectrum Skin System",
+            "description": "Color your world. Choose from 12 Subtle Skin Tones that propagate through the entire app's architechture, matching your player to your personal style.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663282/screenshot_16_j03tu4.jpg"
         },
         {
             "id": 17,
-            "description": "Effortless music sharing with friends across all social platforms.",
+            "name": "Genre-Flow Navigation",
+            "description": "Explore the vertical dimension. The Atmos Right Panel features smooth, upward-scrolling genres, allowing you to drift through different musical moods with effortless swipes.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663282/screenshot_17_ht4nma.jpg"
         },
         {
             "id": 18,
-            "description": "Lightweight and battery-efficient performance for all-day listening.",
+            "name": "DNATMOS Player Screen",
+            "description": "The ultimate relaxation tool. The Atmos Main Screen blends high-quality audio with Integrated Nature Sounds. Set a specialized timer (15-120 mins) to let the music and the wild carry you to sleep.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663283/screenshot_18_cgpbkh.jpg"
         },
         {
             "id": 19,
-            "description": "Dynamic visualizers that dance to the rhythm of your favorite songs.",
+            "name": "Dediacted ATMOS Library",
+            "description": "Your high-fidelity vault. The Atmos Left Panel houses your dedicated genre tarcks, detailed metadata, and offline downloads for an uninterrupted immersive experience.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663284/screenshot_19_yr7zpc.jpg"
         },
         {
             "id": 20,
-            "description": "Organized folder view for those who prefer manual music management.",
+            "name": "Sound Mix Labratory",
+            "description": "Become the architect of your own environment. The Sound Mix Panel allows you to layer up to 4 Natural Textures (rain, thunder, wind, waves, birds, etc.) over your music, with stunning additional volume sliders for each element.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663284/screenshot_20_um6mlt.jpg"
         },
         {
             "id": 21,
-            "description": "Customizable home screen widgets for instant access to your player.",
+            "name": "Atmos Discovery Bottom Panel",
+            "description": "Explore the unknown. Use the Atmos Bottom Panel to find curated sounds and music modes specifically designed for focus, relaxation, or deep sleep.",
             "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778663285/screenshot_21_on7atr.jpg"
+        },
+        {
+            "id": 22,
+            "name": "The Smart Queue",
+            "description": "Take total control of your listening flow. Seamlessly shuffle, reorder, or clear your upcoming tracks with single tap. Whether you're planning the next hour or living in the moment, the Queue Panel keeps your vibe on track.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680979/queuepanel_hfmkb8.jpg"       
+        },
+        {
+            "id": 23,
+            "name": "The Command Center",
+            "description": "Your all-in-one toolkit for song manipulation. Access everything from Ringtone setup and Metadata info to Sleep Timers and Playback Speed without ever leaving your current view. Precision control, tucked neatly to the side.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/sidepanel_noxwop.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Deep Metadata Insights",
+            "description": "Knowledge is power. Dive into the DNA of your music with the Song Info Panel. Track every detail - from high-fidelity bitrates and bits per sample to file locations and timestamps. It's the ultimate dashboard for the true audiophile.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/songinfo_yzcnvs.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Intelligent Sleep Timer",
+            "description": "Drift off to your favorite melodies on your own terms. Choose from Quick-Presets (15 to 60 mins) or use our Fluid Carousel for a custom countdown. Plus, stay in control with External Notification Support, allowing you to extend or stop the timer without reopenig the app.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/sleeptimer_mulyv0.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Precision Playback Control",
+            "description": "Find your perfect tempo. Use our Quick-Taps for 0.5x to 2.0x speeds, or use the Fine-Tune Slider for surgical accuracy. Perfect for practicing instruments, transcribing, or just experiencing your music at different pace.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/playbackspeed_pxpr44.jpg"
+        }, 
+        {
+            "id": 27,
+            "name": "Instant Ringtone Studio",
+            "description": "Make your favorite anthem your identity. Once granted permission, DNMUSIC lets you transform any track into your System Ringtone instantly. Your Music, Your Call.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680979/setasringtone_wjgdwj.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Custom Cover Art Gallery",
+            "description": "Visuals that match the mood. Persolalize your library by uploading custom artwork from your device. Want to go back to the original? One tap restores the native metadata art instantly.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680979/setcoverimage_xa41aq.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Seamless Playlist Integration",
+            "description": "Building your dream library is effortless. Quickly tag songs as Favorites or sort them into Custom Playlists through an intuitive, streamlined interface.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680979/addtoplaylist_mes9vi.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Master Playlist Management",
+            "description": "The ultimate curator's tool. Batch-delete old lists, rename on the fly, or inject entire playlists directly into your 'Play Next' queue. Managing your collection has never been this organized.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/manageplaylist_oie3yx.jpg"
+        },
+        {
+            "id": 31,
+            "name": "The Lyrics Workshop",
+            "description": "Never miss a word. Fetch lyrics via Global Online Search (just tap and copy), import your own .txt or .lrc files, or manually craft the perfect transcription. Your music, now fully narrated.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680980/lyricsscreen_d0ckil.jpg"
+        },
+        {
+            "id": 32,
+            "name": "Lyrics Display",
+            "description": "Experience your music in high definition. The dedicated Lyrics Screen offers a clean, distraction-free view or every verse. Need a change? Easily reset or overwrite lyrics to keep your library polished and accurate.",
+            "image_link": "https://res.cloudinary.com/daeqdekle/image/upload/v1778680979/lyricsadded_dutu2u.jpg"
         }
     ]
 }
